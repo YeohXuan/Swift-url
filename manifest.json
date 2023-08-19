@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Swift URL",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "Screenshot_2023-04-08_at_1.27.50_PM-removebg-preview (1).png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}

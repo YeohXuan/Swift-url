@@ -1,0 +1,42 @@
+body {
+    min-width: 400px;
+    background-color: white;
+}
+button{
+    background-color: #5f9341;
+    color: white;
+    font-weight: bold;
+    border: 2px solid #5f9341;
+    border-radius: 2px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+#clear{
+    background-color: red;
+    color: white;
+    border: 2px solid red;
+}
+button:hover{
+    background-color: white;
+    color: #5f9341;
+}
+#clear:hover{
+    background-color: white;
+    color: red;
+}
+input{
+    border: 2px solid #5f9341;
+    border-radius: 2px;
+    height: 40px;
+    width: 100%;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+#url-dis{
+    list-style: none;
+    padding-left: 0;
+}
+#url-dis li{
+    margin-top: 5px;
+}
